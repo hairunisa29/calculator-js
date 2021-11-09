@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap");
+
+
+.card{
+    background-color: #fff;
+    width: 75%;
+    border-radius: 33px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 2rem !important;
+    text-align:center;
+}
+
+#judul{
+    font-family:"Montserrat",sans-serif;
+    padding-top: 5px;
+}
+
+
+#foto{
+    margin-left:200px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    width:50%;
+}
+
+
+body {
+    background-color: #ffffff;
+    font-family:"Quicksand",sans-serif;
+    text-align: center;
+    color:#02065c;
+}
+
+.buttons{
+    padding-top: 10px;
+}
